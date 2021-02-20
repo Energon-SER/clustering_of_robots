@@ -1,0 +1,33 @@
+название,производитель,страна,год,масса(кг),скорость(км/ч),длина(м),зона_действия,животное,завершен
+SmartBird,Festo's Bionic Learning Network,Германия,2011,0.485,NaN,NaN,воздух,чайка,1
+BionicSwift,Festo's Bionic Learning Network,Германия,2020,0.042,NaN,0.445,воздух,ласточка,0
+BionicOpter,Festo's Bionic Learning Network,Германия,2013,0.175,NaN,0.46,воздух,стрекоза,1
+eMotionButterflies,Festo's Bionic Learning Network,Германия,2015,0.032,9,0.5,воздух,бабочка,1
+BionicFlyingFox,Festo's Bionic Learning Network,Германия,2018,0.58,NaN,2.28,воздух,летучая мышь,1
+Aves,Drone Bird Company,Нидерланды,2020,NaN,43.2,2.5,воздух,чайка,1
+CRAM,Калифорнийский университет Беркли,США,2016,NaN,NaN,NaN,земля,таракан,0
+Робогусеница,Варшавский университет,Польша,2016,NaN,NaN,0.015,земля,гусеница,0
+Pleurobot,EPFL(Федеральная политехническая школа Лозанны,Швейцария,2015,NaN,NaN,NaN,земля,тритон,0
+B-droid,Технологический Университет Варшавы,Польша,2016,NaN,NaN,0.05,воздух,пчела,0
+Робот-комар,Гарвард,США,2013,0.00008,NaN,NaN,воздух,комар,0
+BionicWheelBot,Festo's Bionic Learning Network,Германия,2018,NaN,NaN,0.25,земля,паук,1
+BionicANTs,Festo's Bionic Learning Network,Германия,2015,0.105,NaN,0.135,земля,муравей,1
+BionicKangaroo,Festo's Bionic Learning Network,Германия,2013,7,45.5,NaN,земля,кенгуру,0
+C-Turtle,Инженеры из Аризоны,США,2020,NaN,0.18,NaN,земля,черепаха,0
+ATLAS,Boston Dynamics,США,2017,82,5.4,NaN,земля,человек,0
+Petman,Boston Dynamics,США,2013,80,4.5,NaN,земля,человек,0
+Robocop,SRI International,США,2017,100,NaN,NaN,земля,человек,1
+BigDog,Boston Dynamics,США,2015,109,11,0.91,земля,собака,1
+Spot,Boston Dynamics,США,2015,72.5,NaN,NaN,земля,лошадь,0
+Cheetah,Boston Dynamics,США,2013,9,29,NaN,земля,гепард,0
+Робот дождевой червь,General Electric,США,2020,NaN,0.36,1.829,под_землей,червь,0
+Робот-змея,Tadokoro Laboratory,Япония,2017,3,0.36,8,под_землей,змея,0
+iStruct,DFKI GmbH,Германия,2013,18,NaN,NaN,космос,обезьяна,0
+RoboSimian,NASA Jet Propulsion Laboratory,США,2016,125,NaN,NaN,космос,обезьяна,0
+Valkyrie,NASA,США,2013,128,NaN,NaN,космос,человек,1
+AquaJellies 2.0,Festo's Bionic Learning Network,Германия,2014,NaN,NaN,NaN,вода,медуза,0
+Airacuda,Юго-Западный государственный университет,Россия,2014,4,1.44,0.7,вода,рыба,0
+AquaPenguins,Festo's Bionic Learning Network,Германия,2009,9.6,5,0.77,вода,пингвин,1
+Aqua_ray,Festo's Bionic Learning Network,Германия,2009,10,1.8,2,вода,манта,1
+ROBO-SHARK,Robosea,Китай,2019,75,18.52,2,вода,акула,0
+Nara-Tartaruga,ETH Zurich,Швейцария,2020,75,7,NaN,вода,черепаха,0
